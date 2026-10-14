@@ -1,6 +1,6 @@
 # BE623 Assignment 5
 
-This repository ha# BE623 Assignment 5
+This repository has BE623 Assignment 5
 
 This repository contains my BE623 Biocomputing Assignment 5 files.
 
